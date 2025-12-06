@@ -1,0 +1,14 @@
+{
+  "model_dir": "/home/ali/gnn_sop/mpi-vgae/notebooks/facebook/esm2_t33_650M_UR50D",
+  "dtype": "bfloat16",
+  "device": "cuda:0",
+  "hidden_size": 1280,
+  "pos_limit": 1026,
+  "shards": [
+    {
+      "path": "/home/ali/gnn_sop/mpi-vgae/notebooks/data/embeddings/protein_vec__esm2_t33_650M_UR50D__shard_00001.pkl",
+      "count": 7
+    }
+  ],
+  "total": 13
+}
